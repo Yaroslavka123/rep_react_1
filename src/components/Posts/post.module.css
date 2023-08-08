@@ -1,0 +1,26 @@
+.item{
+    border: 2px solid black;
+    width: 60%;
+    margin: 0 auto;
+    background-color: mediumaquamarine;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.item button{
+    width: 100px;
+    background-color: black;
+    border: 0;
+    margin: 10px;
+}
+
+.item div h2{
+    text-align: start;
+    color: black;
+    font-size: 25px;
+    margin: 5px;
+}
+.item div p{
+    color:black;
+    margin: 2px 0 10px 10px;
+}
